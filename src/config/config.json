@@ -1,0 +1,36 @@
+{
+    "development": {
+      "username": "root",
+      "password": null,
+      "database": "tutorial",
+      "params": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "operatorsAliases": false,
+        "logging": false
+      }
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "tutorial",
+      "params": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "operatorsAliases": false,
+        "logging": false
+      }
+    },
+    "production": {
+      "username": "root",
+      "password": null,
+      "database": "tutorial",
+      "params": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "operatorsAliases": false,
+        "logging": false
+      }
+    }
+  }
+  
